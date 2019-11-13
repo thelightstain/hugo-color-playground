@@ -1,7 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ with .Resources.GetMatch "**.svg" }}
-  <img style="width:100%" src="{{ . }}" alt="The {{ $.Section | title }} {{ $.Title }}. "> 
+  <img style="width:100%" src="{{ .Permalink }}" alt="The {{ $.Section | title }} {{ $.Title }}. "> 
   {{ end }}
   {{ .Content }}
 
