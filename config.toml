@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://festive-babbage-0510a6.netlify.com"
 languageCode = "en-us"
 title = "Rainbow example"
 
