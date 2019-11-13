@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Resources.GetMatch "**.svg" }}
+  <img style="width:100%" src="{{ . }}" alt="The {{ $.Section | title }} {{ $.Title }}. "> 
+  {{ end }}
+  {{ .Content }}
+
+  {{ $taxonomy := "types" }}
+  {{ with .Param $taxonomy }}
+  <ul>
+    {{ range $index, $tag := . }}
+      {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
+        <li>
+          <a href="{{ .Permalink }}">{{ $tag | urlize }}</a>
+        </li>
+      {{- end -}}
+    {{- end -}}
+  </ul>
+{{ end }}
+{{ end }}

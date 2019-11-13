@@ -1,0 +1,15 @@
+{{ define "main" }}
+	{{ range .Site.RegularPages.Reverse }}
+		<dl>
+			<dt><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3></dt>
+      <dd>{{ .Content }}</dd>
+		</dl>
+	{{ end }}	
+  <br>
+  <h2>Color types by numbers</h2>
+  {{ range $.Site.Taxonomies.types.ByCount }}
+    <a href="/types/{{ .Name | urlize }}/"><h3>{{ .Name }} ({{ .Count }})</h3></a>
+  {{ end }}
+  <hr>
+{{ end }}
+

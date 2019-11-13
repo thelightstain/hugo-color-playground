@@ -1,0 +1,54 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "Rainbow example"
+
+[taxonomies]
+  type = "types"
+
+sectionPagesMenu = "main"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "homepage"
+    url  = "/"
+    weight = 10
+[[menu.main]]
+    identifier = "colors"
+    name = "colors"
+    url  = "/color/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url  = "/about/"
+  [[menu.main]]
+    identifier = "types"
+    name = "types"
+    url  = "/types/"
+    weight = "30"
+  [[menu.main]]
+    identifier = "warm"
+    name = "warm"
+    url = "/types/warm"
+    weight = 60
+  [[menu.main]]
+    identifier = "cool"
+    name = "cool"
+    url = "/types/cool"
+    weight = 70
+  [[menu.main]]
+    identifier = "neutral"
+    name = "neutral"
+    url = "/types/neutral"
+    weight = 80
+  [[menu.main]]
+    identifier = "primary"
+    name = "primary"
+    url = "/types/primary"
+    weight = 40
+ [[menu.main]]
+    identifier = "secondary"
+    name = "secondary"
+    url = "/types/secondary"
+    weight = 50
