@@ -1,6 +1,8 @@
-baseURL = "https://festive-babbage-0510a6.netlify.com"
+baseURL = "thelightstain.github.io/hugo-color-playground"
 languageCode = "en-us"
 title = "Rainbow example"
+
+publishDir = "docs"
 
 [taxonomies]
   type = "types"
