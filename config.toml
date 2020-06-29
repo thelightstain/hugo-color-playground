@@ -1,4 +1,4 @@
-baseURL = "thelightstain.github.io/hugo-color-playground"
+baseURL = "https://thelightstain.github.io/hugo-color-playground"
 languageCode = "en-us"
 title = "Rainbow example"
 
