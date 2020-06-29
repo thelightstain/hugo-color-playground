@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Types on Rainbow example</title>
+    <link>thelightstain.github.io/hugo-color-playground/types/</link>
+    <description>Recent content in Types on Rainbow example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2019 09:15:31 +0200</lastBuildDate>
+    
+	<atom:link href="thelightstain.github.io/hugo-color-playground/types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neutral Colors</title>
+      <link>thelightstain.github.io/hugo-color-playground/types/neutral/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:31 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/types/neutral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secondary Colors</title>
+      <link>thelightstain.github.io/hugo-color-playground/types/secondary/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:31 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/types/secondary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cool Colors</title>
+      <link>thelightstain.github.io/hugo-color-playground/types/cool/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:20 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/types/cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Colors</title>
+      <link>thelightstain.github.io/hugo-color-playground/types/primary/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:10 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/types/primary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warm Colors</title>
+      <link>thelightstain.github.io/hugo-color-playground/types/warm/</link>
+      <pubDate>Wed, 13 Nov 2019 09:14:59 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/types/warm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

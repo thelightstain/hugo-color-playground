@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primary Colors on Rainbow example</title>
+    <link>thelightstain.github.io/hugo-color-playground/types/primary/</link>
+    <description>Recent content in Primary Colors on Rainbow example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2019 09:15:10 +0200</lastBuildDate>
+    
+	<atom:link href="thelightstain.github.io/hugo-color-playground/types/primary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blue</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/blue/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:10 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/blue/</guid>
+      <description>The fifth color of the rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Yellow</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/yellow/</link>
+      <pubDate>Wed, 13 Nov 2019 09:14:59 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/yellow/</guid>
+      <description>The third color of the rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Red</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/red/</link>
+      <pubDate>Wed, 13 Nov 2019 09:14:47 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/red/</guid>
+      <description>First color of the rainbow.</description>
+    </item>
+    
+  </channel>
+</rss>

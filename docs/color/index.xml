@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colors on Rainbow example</title>
+    <link>thelightstain.github.io/hugo-color-playground/color/</link>
+    <description>Recent content in Colors on Rainbow example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2019 09:15:31 +0200</lastBuildDate>
+    
+	<atom:link href="thelightstain.github.io/hugo-color-playground/color/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Black</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/black/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:31 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/black/</guid>
+      <description>Black is not part of the rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Violet</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/violet/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:20 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/violet/</guid>
+      <description>The seventh and last color of tha rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Indigo</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/indigo/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:16 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/indigo/</guid>
+      <description>The sixth color of the rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Blue</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/blue/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:10 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/blue/</guid>
+      <description>The fifth color of the rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Green</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/green/</link>
+      <pubDate>Wed, 13 Nov 2019 09:15:06 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/green/</guid>
+      <description>The fourth color of the rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Yellow</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/yellow/</link>
+      <pubDate>Wed, 13 Nov 2019 09:14:59 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/yellow/</guid>
+      <description>The third color of the rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Orange</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/orange/</link>
+      <pubDate>Wed, 13 Nov 2019 09:14:53 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/orange/</guid>
+      <description>The second color of the rainbow.</description>
+    </item>
+    
+    <item>
+      <title>Red</title>
+      <link>thelightstain.github.io/hugo-color-playground/color/red/</link>
+      <pubDate>Wed, 13 Nov 2019 09:14:47 +0200</pubDate>
+      
+      <guid>thelightstain.github.io/hugo-color-playground/color/red/</guid>
+      <description>First color of the rainbow.</description>
+    </item>
+    
+  </channel>
+</rss>
