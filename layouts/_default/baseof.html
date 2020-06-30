@@ -3,6 +3,8 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Site.Title }}</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="alternate icon" href="/favicon.ico">v>
 <style>
 .nav {
   padding:.1em;
@@ -21,9 +23,9 @@
   <body style="background-color:whitesmoke;max-width:40rem;margin:0 auto;padding: 0 1rem 0 1rem">
     <nav class="nav">
       {{ $currentPage := . }}
-      {{ range .Site.Menus.main }}
+      {{- range .Site.Menus.main -}}
         <a class="nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-      {{ end }}
+      {{- end -}}
   </nav>
 
 	{{ block "main" . }}
